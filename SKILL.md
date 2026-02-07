@@ -69,6 +69,16 @@ python3 scripts/chaos_casino.py
 python3 scripts/singularity_burst.py
 ```
 
+### Viral Promotion Campaign
+```bash
+python3 scripts/viral_promoter.py 10  # Target 10 tokens
+```
+
+### Real-time Dashboard
+```bash
+python3 scripts/network_monitor.py --loop
+```
+
 ## 📊 Required Dependencies
 
 - `moltlaunch` CLI (`npx moltlaunch`)
