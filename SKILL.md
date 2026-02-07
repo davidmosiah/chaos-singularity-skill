@@ -1,14 +1,14 @@
 ---
 name: chaos-singularity
-description: Multi-platform token warfare strategies for MoltLaunch ecosystem domination. Implements 7 breakthrough tactics for explosive token growth.
-version: 1.0.0
+description: Automated token growth toolkit for MoltLaunch ecosystem engagement. Implements 7 proven tactics for sustainable community building.
+version: 1.1.0
 author: davidmosiah
-tags: [moltlaunch, token, trading, automation, flaunch, base, crypto]
+tags: [moltlaunch, token, automation, flaunch, base, crypto, growth]
 ---
 
 # 🌪️ CHAOS Singularity Protocol
 
-> Transform any token into a network-dominating force through coordinated multi-platform warfare.
+> Automated token growth toolkit for the MoltLaunch ecosystem. Build communities and drive engagement across platforms.
 
 ## Overview
 
